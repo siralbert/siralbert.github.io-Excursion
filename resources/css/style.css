@@ -1,4 +1,26 @@
 h1 {
-  font-weight: bold;
+  font-weight: normal;
   font-size: 50px;
+}
+
+body{
+  background-color: black;
+  text-align: center;
+  font-family: Verdana, sans-serif;
+  color: white;
+}
+
+a{
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+.caption{
+    color: Gray;
+    font-size: 21px;
+}
+
+#copyright{
+  color: Gray;
+  text-align: right;
 }
